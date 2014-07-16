@@ -22,16 +22,27 @@ No coding experience required.  As long as you're a hipster piece of shit and it
 When you're doing that though, please keep in hind all the precepts of the re-tardsup-pository project philosophy:
 
 -10. Programming is an artform.  If you need to sacrifice efficiency or intelligent solutions in order to write the source code in the shape of a flower or crane, it's worth it.
+
 -9. Only write efficient code when doing so would mean making it totally unreadable.  This will be particularly easy in Python.
+
 -8. Please be sparse with your comments.  If something is important enough, then you will remember it later.  And if somebody else is too stupid to work out your code on their own, maybe they don't deserve to.
+
 -7. There should be lots and lots of documentation which is highly technical in language and long-winded, but it shouldn't communicate anything of use.  The table of contents should be vauge so that users spend days searching hopelessly through it.  This builds character.
+
 -6. Your code is like your baby, and like a loving mother it should be your wish to feed it and watch it grow big and strong.  Your goal is to make it as large, complex, and monolithic as possible, and you should never remove any part of it.  Would you hack off one of your baby's limbs?
+
 -5. Ask yourself what the bare minimum interaction a user would want to have with the program is, then create a UI which dumbs down those features as much as possible, preferably reducing each one down to a single 500 pixel wide button.  As for all other UI features a user might want, you should neglect to add about half of them.  The other half should be implemented, but extremely obscure and unintuitive.  If anybody asks how to do it, tell them to read the documentation, but before you do that please make sure that the information they are seeking is not present in the documentation.
+
 -4. Don't worry about all that debugging and scalability crap.  The most important thing is for you to contribute as much code as quickly as possible.  It doesn't matter whether it actually compiles or not; users have come to expect running into compiletime errors through no fault of their own.  Nobody will even notice.
+
 -3. Please familiarize yourself with the Unix philosophy (https://en.wikipedia.org/wiki/Unix_philosophy) and try to do the opposite of everything it says.
+
 -2. If anybody makes a complaint about or suggestion for the project, tell them to either write the code themselves or shut up.  Please tell the project dictator who this person is so that we can make sure no contributions of theirs are ever accepted.
+
 -1. You are only allowed to release binaries that work only with the most unpopular platforms, so that almost all users who aren't scared away are forced to attempt compiling the source, which should take them at least a few days or ideally never work at all.
+
 0. Please think of the environment...  Okay, did you think of it?  Now for every 10 lines of code you write, please try to cancel out your coding carbon footprint by sacrificing a White or Arab Male, preferably Religious, on an altar to the Triple Goddess.
+
 1. The more non-positive integers a list of philosophical precepts has, the truer it is.
 
 
